@@ -1,0 +1,18 @@
+body {
+  border-top: 2px solid #007bff;
+  background: #efefef;
+  }
+  .container {
+  margin-top: 0.5rem;
+  }
+  .container h1 {
+  color: #007bff;
+  }
+  .container .input-group input {
+  border-color: #007bff;
+  border-width: 3px;
+  border-radius: 25px 0 0 25px !important;
+  }
+  .container .input-group .input-group-btn button {
+  border-radius: 0 25px 25px 0 !important;
+  }
